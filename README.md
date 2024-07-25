@@ -1,4 +1,4 @@
-# Data Supporting the paper An Updated Analysis of Learning Resource Metadata Usage on the Web presented at TPDL '24
+# Data Supporting the paper "An Updated Analysis of Learning Resource Metadata Usage on the Web" presented at TPDL '24
 
 ## Abstract
 
